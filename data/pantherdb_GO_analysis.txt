@@ -1,0 +1,255 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.5228828 Released 2021-08-18
+Analyzed List:	Genome_unique.bed (Homo sapiens)	There are duplicate IDs in the file. The unique set of IDs will be used.
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20595)	Genome_unique.bed (101)	Genome_unique.bed (expected)	Genome_unique.bed (over/under)	Genome_unique.bed (fold Enrichment)	Genome_unique.bed (raw P-value)	Genome_unique.bed (FDR)
+malonyl-CoA biosynthetic process (GO:2001295)	2	2	.01	+	 > 100	1.41E-04	1.31E-02
+cAMP transport (GO:0070730)	2	2	.01	+	 > 100	1.41E-04	1.30E-02
+thioester transport (GO:1901337)	2	2	.01	+	 > 100	1.41E-04	1.29E-02
+ceramide translocation (GO:0099040)	2	2	.01	+	 > 100	1.41E-04	1.28E-02
+sphingolipid translocation (GO:0099039)	4	4	.02	+	 > 100	3.68E-08	1.16E-05
+fatty-acyl-CoA transport (GO:0015916)	2	2	.01	+	 > 100	1.41E-04	1.28E-02
+long-chain fatty acid import into peroxisome (GO:0015910)	4	4	.02	+	 > 100	3.68E-08	1.14E-05
+heme transmembrane transport (GO:0035351)	2	2	.01	+	 > 100	1.41E-04	1.27E-02
+leukotriene transport (GO:0071716)	7	6	.03	+	 > 100	1.94E-11	1.09E-08
+mesenchyme migration (GO:0090131)	5	4	.02	+	 > 100	6.61E-08	1.70E-05
+xenobiotic transmembrane transport (GO:0006855)	7	5	.03	+	 > 100	1.93E-09	7.98E-07
+very long-chain fatty acid catabolic process (GO:0042760)	7	5	.03	+	 > 100	1.93E-09	7.78E-07
+carnitine metabolic process, CoA-linked (GO:0019254)	3	2	.01	+	 > 100	2.34E-04	1.95E-02
+xenobiotic transport across blood-brain barrier (GO:1990962)	6	4	.03	+	 > 100	1.10E-07	2.69E-05
+positive regulation of tetrapyrrole biosynthetic process (GO:1901465)	3	2	.01	+	 > 100	2.34E-04	1.94E-02
+positive regulation of heme biosynthetic process (GO:0070455)	3	2	.01	+	 > 100	2.34E-04	1.93E-02
+canalicular bile acid transport (GO:0015722)	3	2	.01	+	 > 100	2.34E-04	1.92E-02
+citrate metabolic process (GO:0006101)	5	3	.02	+	 > 100	6.21E-06	9.66E-04
+glutathione transmembrane transport (GO:0034775)	6	3	.03	+	 > 100	9.28E-06	1.34E-03
+positive regulation of tetrapyrrole metabolic process (GO:1901403)	4	2	.02	+	 > 100	3.49E-04	2.68E-02
+cytosol to endoplasmic reticulum transport (GO:0046967)	4	2	.02	+	 > 100	3.49E-04	2.66E-02
+terpenoid transport (GO:0046865)	4	2	.02	+	 > 100	3.49E-04	2.65E-02
+isoprenoid transport (GO:0046864)	4	2	.02	+	 > 100	3.49E-04	2.64E-02
+regulation of transepithelial transport (GO:0150111)	4	2	.02	+	 > 100	3.49E-04	2.63E-02
+positive regulation of phospholipid efflux (GO:1902995)	4	2	.02	+	 > 100	3.49E-04	2.61E-02
+regulation of phospholipid efflux (GO:1902994)	4	2	.02	+	 > 100	3.49E-04	2.60E-02
+positive regulation of activin receptor signaling pathway (GO:0032927)	7	3	.03	+	87.39	1.32E-05	1.80E-03
+tripeptide transmembrane transport (GO:0035443)	7	3	.03	+	87.39	1.32E-05	1.79E-03
+fatty acid beta-oxidation using acyl-CoA dehydrogenase (GO:0033539)	10	4	.05	+	81.56	5.15E-07	1.08E-04
+isoleucine catabolic process (GO:0006550)	5	2	.02	+	81.56	4.87E-04	3.45E-02
+apolipoprotein A-I-mediated signaling pathway (GO:0038027)	5	2	.02	+	81.56	4.87E-04	3.43E-02
+regulation of tetrapyrrole biosynthetic process (GO:1901463)	5	2	.02	+	81.56	4.87E-04	3.42E-02
+sensory perception of sour taste (GO:0050915)	5	2	.02	+	81.56	4.87E-04	3.40E-02
+regulation of heme biosynthetic process (GO:0070453)	5	2	.02	+	81.56	4.87E-04	3.39E-02
+regulation of bile acid secretion (GO:0120188)	5	2	.02	+	81.56	4.87E-04	3.37E-02
+long-chain fatty acid catabolic process (GO:0042758)	5	2	.02	+	81.56	4.87E-04	3.36E-02
+adenosine to inosine editing (GO:0006382)	8	3	.04	+	76.47	1.81E-05	2.37E-03
+glutathione transport (GO:0034635)	8	3	.04	+	76.47	1.81E-05	2.35E-03
+xenobiotic transport (GO:0042908)	39	14	.19	+	73.20	3.50E-21	2.75E-17
+malonyl-CoA metabolic process (GO:2001293)	6	2	.03	+	67.97	6.48E-04	4.31E-02
+fatty acid transmembrane transport (GO:1902001)	12	4	.06	+	67.97	9.30E-07	1.76E-04
+cyclic nucleotide transport (GO:0070729)	6	2	.03	+	67.97	6.48E-04	4.30E-02
+regulation of tetrapyrrole metabolic process (GO:1901401)	6	2	.03	+	67.97	6.48E-04	4.28E-02
+oligopeptide transmembrane transport (GO:0035672)	12	4	.06	+	67.97	9.30E-07	1.74E-04
+prostaglandin transport (GO:0015732)	6	2	.03	+	67.97	6.48E-04	4.26E-02
+skeletal muscle thin filament assembly (GO:0030240)	6	2	.03	+	67.97	6.48E-04	4.24E-02
+tripeptide transport (GO:0042939)	9	3	.04	+	67.97	2.40E-05	3.05E-03
+oligopeptide transport (GO:0006857)	14	4	.07	+	58.26	1.55E-06	2.77E-04
+xenobiotic export (GO:0046618)	14	4	.07	+	58.26	1.55E-06	2.74E-04
+heme transport (GO:0015886)	11	3	.05	+	55.61	3.95E-05	4.74E-03
+negative regulation of fatty acid oxidation (GO:0046322)	12	3	.06	+	50.98	4.92E-05	5.77E-03
+magnesium ion homeostasis (GO:0010960)	13	3	.06	+	47.06	6.03E-05	6.92E-03
+fatty acid beta-oxidation (GO:0006635)	57	13	.28	+	46.51	1.51E-17	5.94E-14
+tricarboxylic acid metabolic process (GO:0072350)	14	3	.07	+	43.70	7.30E-05	7.97E-03
+iron coordination entity transport (GO:1901678)	14	3	.07	+	43.70	7.30E-05	7.91E-03
+peroxisomal membrane transport (GO:0015919)	20	4	.10	+	40.78	5.27E-06	8.53E-04
+positive regulation of phospholipid transport (GO:2001140)	15	3	.07	+	40.78	8.73E-05	9.02E-03
+iron ion transmembrane transport (GO:0034755)	15	3	.07	+	40.78	8.73E-05	8.97E-03
+regulation of fatty acid beta-oxidation (GO:0031998)	21	4	.10	+	38.84	6.25E-06	9.62E-04
+regulation of phospholipid transport (GO:2001138)	16	3	.08	+	38.23	1.03E-04	1.04E-02
+phospholipid homeostasis (GO:0055091)	16	3	.08	+	38.23	1.03E-04	1.03E-02
+activin receptor signaling pathway (GO:0032924)	27	5	.13	+	37.76	4.54E-07	9.78E-05
+peroxisomal transport (GO:0043574)	22	4	.11	+	37.07	7.35E-06	1.10E-03
+adenine nucleotide transport (GO:0051503)	28	5	.14	+	36.41	5.33E-07	1.10E-04
+very long-chain fatty acid metabolic process (GO:0000038)	34	6	.17	+	35.98	3.90E-08	1.18E-05
+antigen processing and presentation of endogenous peptide antigen via MHC class I (GO:0019885)	17	3	.08	+	35.98	1.21E-04	1.15E-02
+regulation of fatty acid oxidation (GO:0046320)	34	6	.17	+	35.98	3.90E-08	1.16E-05
+purine ribonucleotide transport (GO:0015868)	29	5	.14	+	35.16	6.23E-07	1.26E-04
+regulation of activin receptor signaling pathway (GO:0032925)	24	4	.12	+	33.99	1.00E-05	1.43E-03
+icosanoid transport (GO:0071715)	36	6	.18	+	33.99	5.29E-08	1.48E-05
+purine nucleotide transport (GO:0015865)	30	5	.15	+	33.99	7.24E-07	1.42E-04
+regulation of cholesterol efflux (GO:0010874)	36	6	.18	+	33.99	5.29E-08	1.46E-05
+negative regulation of reactive oxygen species biosynthetic process (GO:1903427)	18	3	.09	+	33.99	1.41E-04	1.26E-02
+positive regulation of cholesterol transport (GO:0032376)	37	6	.18	+	33.07	6.12E-08	1.66E-05
+positive regulation of sterol transport (GO:0032373)	37	6	.18	+	33.07	6.12E-08	1.63E-05
+bile acid and bile salt transport (GO:0015721)	31	5	.15	+	32.89	8.37E-07	1.62E-04
+fatty acid oxidation (GO:0019395)	81	13	.40	+	32.73	8.72E-16	2.28E-12
+cholesterol efflux (GO:0033344)	25	4	.12	+	32.63	1.16E-05	1.62E-03
+positive regulation of cholesterol efflux (GO:0010875)	25	4	.12	+	32.63	1.16E-05	1.61E-03
+antigen processing and presentation of endogenous peptide antigen (GO:0002483)	19	3	.09	+	32.20	1.62E-04	1.43E-02
+lipid translocation (GO:0034204)	51	8	.25	+	31.99	4.38E-10	2.22E-07
+fatty acid catabolic process (GO:0009062)	83	13	.41	+	31.94	1.16E-15	2.60E-12
+lipid oxidation (GO:0034440)	85	13	.42	+	31.19	1.53E-15	3.01E-12
+base conversion or substitution editing (GO:0016553)	20	3	.10	+	30.59	1.86E-04	1.62E-02
+transepithelial transport (GO:0070633)	27	4	.13	+	30.21	1.52E-05	2.02E-03
+peroxisome organization (GO:0007031)	34	5	.17	+	29.99	1.26E-06	2.34E-04
+intracellular lipid transport (GO:0032365)	35	5	.17	+	29.13	1.44E-06	2.63E-04
+nucleotide transport (GO:0006862)	37	5	.18	+	27.56	1.85E-06	3.19E-04
+regulation of membrane lipid distribution (GO:0097035)	60	8	.29	+	27.19	1.41E-09	5.99E-07
+phospholipid translocation (GO:0045332)	46	6	.23	+	26.60	1.97E-07	4.50E-05
+acetyl-CoA metabolic process (GO:0006084)	31	4	.15	+	26.31	2.49E-05	3.13E-03
+monocarboxylic acid catabolic process (GO:0072329)	105	13	.51	+	25.25	1.83E-14	2.88E-11
+export across plasma membrane (GO:0140115)	57	7	.28	+	25.04	2.64E-08	8.83E-06
+mesenchyme morphogenesis (GO:0072132)	51	6	.25	+	23.99	3.45E-07	7.74E-05
+antigen processing and presentation of endogenous antigen (GO:0019883)	26	3	.13	+	23.53	3.76E-04	2.77E-02
+regulation of cholesterol transport (GO:0032374)	62	7	.30	+	23.02	4.50E-08	1.31E-05
+regulation of sterol transport (GO:0032371)	62	7	.30	+	23.02	4.50E-08	1.29E-05
+sulfur compound transport (GO:0072348)	54	6	.26	+	22.66	4.70E-07	9.99E-05
+amide transport (GO:0042886)	120	13	.59	+	22.09	8.86E-14	9.94E-11
+antigen processing and presentation of peptide antigen via MHC class I (GO:0002474)	28	3	.14	+	21.85	4.59E-04	3.28E-02
+positive regulation of lipid catabolic process (GO:0050996)	28	3	.14	+	21.85	4.59E-04	3.27E-02
+transport across blood-brain barrier (GO:0150104)	86	9	.42	+	21.34	9.07E-10	4.07E-07
+vascular transport (GO:0010232)	87	9	.43	+	21.09	9.97E-10	4.35E-07
+acyl-CoA biosynthetic process (GO:0071616)	40	4	.20	+	20.39	6.24E-05	7.11E-03
+thioester biosynthetic process (GO:0035384)	40	4	.20	+	20.39	6.24E-05	7.06E-03
+peptide transport (GO:0015833)	81	8	.40	+	20.14	1.24E-08	4.23E-06
+regulation of fatty acid biosynthetic process (GO:0042304)	41	4	.20	+	19.89	6.83E-05	7.66E-03
+heme metabolic process (GO:0042168)	41	4	.20	+	19.89	6.83E-05	7.61E-03
+positive regulation of erythrocyte differentiation (GO:0045648)	31	3	.15	+	19.73	6.05E-04	4.06E-02
+modified amino acid transport (GO:0072337)	32	3	.16	+	19.12	6.59E-04	4.30E-02
+vitamin transport (GO:0051180)	44	4	.22	+	18.54	8.82E-05	9.00E-03
+tetrapyrrole metabolic process (GO:0033013)	57	5	.28	+	17.89	1.30E-05	1.79E-03
+organophosphate ester transport (GO:0015748)	137	12	.67	+	17.86	8.52E-12	6.09E-09
+negative regulation of reactive oxygen species metabolic process (GO:2000378)	47	4	.23	+	17.35	1.12E-04	1.09E-02
+porphyrin-containing compound metabolic process (GO:0006778)	48	4	.24	+	16.99	1.21E-04	1.15E-02
+regulation of lipid catabolic process (GO:0050994)	61	5	.30	+	16.71	1.77E-05	2.34E-03
+positive regulation of pathway-restricted SMAD protein phosphorylation (GO:0010862)	49	4	.24	+	16.65	1.30E-04	1.23E-02
+lipid modification (GO:0030258)	174	14	.85	+	16.41	4.12E-13	4.31E-10
+carbohydrate derivative transport (GO:1901264)	78	6	.38	+	15.69	3.47E-06	5.75E-04
+long-chain fatty acid transport (GO:0015909)	52	4	.26	+	15.69	1.62E-04	1.43E-02
+phospholipid transport (GO:0015914)	93	7	.46	+	15.35	5.90E-07	1.20E-04
+monocarboxylic acid transport (GO:0015718)	96	7	.47	+	14.87	7.22E-07	1.44E-04
+purine nucleoside bisphosphate biosynthetic process (GO:0034033)	55	4	.27	+	14.83	1.98E-04	1.71E-02
+ribonucleoside bisphosphate biosynthetic process (GO:0034030)	55	4	.27	+	14.83	1.98E-04	1.70E-02
+nucleoside bisphosphate biosynthetic process (GO:0033866)	55	4	.27	+	14.83	1.98E-04	1.69E-02
+cellular lipid catabolic process (GO:0044242)	182	13	.89	+	14.57	1.22E-11	7.99E-09
+positive regulation of lipid transport (GO:0032370)	85	6	.42	+	14.39	5.54E-06	8.89E-04
+lipid transport (GO:0006869)	301	21	1.48	+	14.23	4.69E-18	2.46E-14
+sterol homeostasis (GO:0055092)	86	6	.42	+	14.23	5.91E-06	9.38E-04
+carboxylic acid catabolic process (GO:0046395)	216	15	1.06	+	14.16	4.19E-13	4.12E-10
+myofibril assembly (GO:0030239)	58	4	.28	+	14.06	2.40E-04	1.96E-02
+organic acid catabolic process (GO:0016054)	220	15	1.08	+	13.90	5.38E-13	4.70E-10
+striated muscle cell development (GO:0055002)	59	4	.29	+	13.82	2.55E-04	2.06E-02
+fatty acid transport (GO:0015908)	60	4	.29	+	13.59	2.71E-04	2.15E-02
+BMP signaling pathway (GO:0030509)	76	5	.37	+	13.42	4.78E-05	5.65E-03
+regulation of fatty acid metabolic process (GO:0019217)	92	6	.45	+	13.30	8.52E-06	1.24E-03
+positive regulation of lipid localization (GO:1905954)	108	7	.53	+	13.22	1.52E-06	2.75E-04
+regulation of pathway-restricted SMAD protein phosphorylation (GO:0060393)	62	4	.30	+	13.16	3.05E-04	2.38E-02
+cholesterol transport (GO:0030301)	62	4	.30	+	13.16	3.05E-04	2.36E-02
+organic hydroxy compound transport (GO:0015850)	158	10	.77	+	12.91	9.66E-09	3.45E-06
+lipid localization (GO:0010876)	335	21	1.64	+	12.78	3.63E-17	1.14E-13
+cholesterol homeostasis (GO:0042632)	85	5	.42	+	11.99	7.93E-05	8.48E-03
+lipid homeostasis (GO:0055088)	154	9	.76	+	11.92	1.05E-07	2.62E-05
+fatty acid metabolic process (GO:0006631)	323	18	1.58	+	11.36	5.53E-14	6.69E-11
+acyl-CoA metabolic process (GO:0006637)	91	5	.45	+	11.20	1.08E-04	1.06E-02
+thioester metabolic process (GO:0035383)	91	5	.45	+	11.20	1.08E-04	1.06E-02
+pigment metabolic process (GO:0042440)	73	4	.36	+	11.17	5.50E-04	3.73E-02
+xenobiotic metabolic process (GO:0006805)	110	6	.54	+	11.12	2.24E-05	2.88E-03
+cellular response to BMP stimulus (GO:0071773)	92	5	.45	+	11.08	1.13E-04	1.10E-02
+response to BMP (GO:0071772)	92	5	.45	+	11.08	1.13E-04	1.09E-02
+regulation of lipid transport (GO:0032368)	134	7	.66	+	10.65	5.92E-06	9.30E-04
+cellular component assembly involved in morphogenesis (GO:0010927)	97	5	.48	+	10.51	1.43E-04	1.28E-02
+carboxylic acid transmembrane transport (GO:1905039)	136	7	.67	+	10.50	6.49E-06	9.91E-04
+organic acid transmembrane transport (GO:1903825)	137	7	.67	+	10.42	6.80E-06	1.03E-03
+sterol transport (GO:0015918)	79	4	.39	+	10.32	7.31E-04	4.73E-02
+vascular process in circulatory system (GO:0003018)	260	13	1.28	+	10.20	7.99E-10	3.69E-07
+regulation of lipid localization (GO:1905952)	164	8	.80	+	9.95	2.03E-06	3.46E-04
+inorganic anion transport (GO:0015698)	168	8	.82	+	9.71	2.41E-06	4.02E-04
+carboxylic acid transport (GO:0046942)	233	11	1.14	+	9.63	3.05E-08	9.79E-06
+organic acid transport (GO:0015849)	255	12	1.25	+	9.60	7.15E-09	2.61E-06
+actomyosin structure organization (GO:0031032)	108	5	.53	+	9.44	2.32E-04	1.96E-02
+lipid catabolic process (GO:0016042)	282	13	1.38	+	9.40	2.05E-09	8.05E-07
+regulation of cellular ketone metabolic process (GO:0010565)	132	6	.65	+	9.27	5.94E-05	6.87E-03
+positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)	111	5	.54	+	9.19	2.62E-04	2.09E-02
+small molecule catabolic process (GO:0044282)	352	15	1.73	+	8.69	3.03E-10	1.59E-07
+fatty acid biosynthetic process (GO:0006633)	121	5	.59	+	8.43	3.84E-04	2.80E-02
+purine nucleoside bisphosphate metabolic process (GO:0034032)	122	5	.60	+	8.36	3.98E-04	2.89E-02
+ribonucleoside bisphosphate metabolic process (GO:0033875)	122	5	.60	+	8.36	3.98E-04	2.88E-02
+nucleoside bisphosphate metabolic process (GO:0033865)	122	5	.60	+	8.36	3.98E-04	2.87E-02
+monocarboxylic acid metabolic process (GO:0032787)	491	20	2.41	+	8.31	5.15E-13	4.76E-10
+cellular response to xenobiotic stimulus (GO:0071466)	176	7	.86	+	8.11	3.22E-05	3.89E-03
+response to xenobiotic stimulus (GO:0009410)	456	18	2.24	+	8.05	1.41E-11	8.55E-09
+organic anion transport (GO:0015711)	314	12	1.54	+	7.79	6.49E-08	1.70E-05
+secondary alcohol metabolic process (GO:1902652)	133	5	.65	+	7.67	5.81E-04	3.92E-02
+regulation of lipid biosynthetic process (GO:0046890)	162	6	.79	+	7.55	1.75E-04	1.54E-02
+monocarboxylic acid biosynthetic process (GO:0072330)	164	6	.80	+	7.46	1.87E-04	1.62E-02
+transmembrane transport (GO:0055085)	1182	41	5.80	+	7.07	2.44E-24	3.83E-20
+tissue homeostasis (GO:0001894)	232	8	1.14	+	7.03	2.33E-05	2.97E-03
+transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	179	6	.88	+	6.84	2.95E-04	2.31E-02
+regulation of lipid metabolic process (GO:0019216)	329	11	1.61	+	6.82	8.52E-07	1.63E-04
+circulatory system process (GO:0003013)	490	16	2.40	+	6.66	3.04E-09	1.17E-06
+carboxylic acid metabolic process (GO:0019752)	808	26	3.96	+	6.56	1.99E-14	2.84E-11
+organic acid metabolic process (GO:0006082)	854	27	4.19	+	6.45	8.50E-15	1.49E-11
+multicellular organismal homeostasis (GO:0048871)	351	11	1.72	+	6.39	1.57E-06	2.74E-04
+oxoacid metabolic process (GO:0043436)	832	26	4.08	+	6.37	3.85E-14	5.04E-11
+striated muscle cell differentiation (GO:0051146)	193	6	.95	+	6.34	4.35E-04	3.12E-02
+steroid metabolic process (GO:0008202)	259	8	1.27	+	6.30	4.96E-05	5.77E-03
+anion transport (GO:0006820)	446	13	2.19	+	5.94	3.67E-07	8.13E-05
+anatomical structure homeostasis (GO:0060249)	278	8	1.36	+	5.87	8.02E-05	8.52E-03
+muscle cell differentiation (GO:0042692)	252	7	1.24	+	5.66	2.80E-04	2.21E-02
+response to alcohol (GO:0097305)	253	7	1.24	+	5.64	2.87E-04	2.26E-02
+carboxylic acid biosynthetic process (GO:0046394)	263	7	1.29	+	5.43	3.60E-04	2.67E-02
+cellular lipid metabolic process (GO:0044255)	903	24	4.43	+	5.42	1.24E-11	7.78E-09
+organic acid biosynthetic process (GO:0016053)	265	7	1.30	+	5.39	3.77E-04	2.77E-02
+response to steroid hormone (GO:0048545)	281	7	1.38	+	5.08	5.30E-04	3.62E-02
+sulfur compound metabolic process (GO:0006790)	330	8	1.62	+	4.94	2.52E-04	2.05E-02
+lipid metabolic process (GO:0006629)	1156	27	5.67	+	4.76	9.07E-12	6.20E-09
+small molecule biosynthetic process (GO:0044283)	421	9	2.06	+	4.36	2.57E-04	2.06E-02
+inorganic cation transmembrane transport (GO:0098662)	576	12	2.82	+	4.25	2.95E-05	3.65E-03
+small molecule metabolic process (GO:0044281)	1547	32	7.59	+	4.22	1.51E-12	1.18E-09
+ion transport (GO:0006811)	1173	23	5.75	+	4.00	1.13E-08	3.96E-06
+organic hydroxy compound metabolic process (GO:1901615)	463	9	2.27	+	3.96	5.05E-04	3.47E-02
+cation transmembrane transport (GO:0098655)	641	12	3.14	+	3.82	8.08E-05	8.53E-03
+inorganic ion transmembrane transport (GO:0098660)	642	12	3.15	+	3.81	8.20E-05	8.54E-03
+homeostatic process (GO:0042592)	1556	29	7.63	+	3.80	2.63E-10	1.42E-07
+cellular amide metabolic process (GO:0043603)	780	14	3.83	+	3.66	3.10E-05	3.78E-03
+metal ion transport (GO:0030001)	613	11	3.01	+	3.66	2.33E-04	1.96E-02
+response to organic cyclic compound (GO:0014070)	896	16	4.39	+	3.64	8.43E-06	1.24E-03
+organic substance transport (GO:0071702)	1927	34	9.45	+	3.60	1.88E-11	1.09E-08
+lipid biosynthetic process (GO:0008610)	570	10	2.80	+	3.58	5.40E-04	3.67E-02
+chemical homeostasis (GO:0048878)	1113	19	5.46	+	3.48	2.04E-06	3.45E-04
+positive regulation of transport (GO:0051050)	909	15	4.46	+	3.36	4.09E-05	4.87E-03
+ion transmembrane transport (GO:0034220)	854	14	4.19	+	3.34	8.10E-05	8.49E-03
+cation transport (GO:0006812)	827	13	4.06	+	3.21	2.23E-04	1.89E-02
+organonitrogen compound biosynthetic process (GO:1901566)	1250	19	6.13	+	3.10	1.06E-05	1.50E-03
+response to endogenous stimulus (GO:0009719)	1342	19	6.58	+	2.89	2.82E-05	3.52E-03
+system process (GO:0003008)	2040	28	10.00	+	2.80	3.94E-07	8.61E-05
+macromolecule localization (GO:0033036)	2308	31	11.32	+	2.74	1.21E-07	2.88E-05
+transport (GO:0006810)	3752	50	18.40	+	2.72	1.13E-12	9.32E-10
+response to organic substance (GO:0010033)	2688	35	13.18	+	2.66	2.80E-08	9.18E-06
+establishment of localization (GO:0051234)	3911	50	19.18	+	2.61	5.54E-12	4.15E-09
+regulation of transport (GO:0051049)	1732	22	8.49	+	2.59	3.10E-05	3.80E-03
+nitrogen compound transport (GO:0071705)	1578	20	7.74	+	2.58	7.85E-05	8.45E-03
+cellular catabolic process (GO:0044248)	1615	20	7.92	+	2.53	1.08E-04	1.07E-02
+regulation of biological quality (GO:0065008)	3705	45	18.17	+	2.48	7.65E-10	3.76E-07
+organic substance catabolic process (GO:1901575)	1587	19	7.78	+	2.44	2.53E-04	2.05E-02
+phosphate-containing compound metabolic process (GO:0006796)	1758	21	8.62	+	2.44	1.16E-04	1.11E-02
+phosphorus metabolic process (GO:0006793)	1779	21	8.72	+	2.41	1.37E-04	1.28E-02
+cellular response to chemical stimulus (GO:0070887)	2567	30	12.59	+	2.38	5.11E-06	8.37E-04
+response to chemical (GO:0042221)	4055	46	19.89	+	2.31	4.35E-09	1.63E-06
+localization (GO:0051179)	5081	54	24.92	+	2.17	7.76E-10	3.70E-07
+cellular response to organic substance (GO:0071310)	1980	21	9.71	+	2.16	6.12E-04	4.09E-02
+regulation of localization (GO:0032879)	2709	28	13.29	+	2.11	9.38E-05	9.51E-03
+multicellular organismal process (GO:0032501)	6584	58	32.29	+	1.80	1.60E-07	3.71E-05
+cellular metabolic process (GO:0044237)	7029	61	34.47	+	1.77	8.14E-08	2.06E-05
+system development (GO:0048731)	4169	35	20.45	+	1.71	7.21E-04	4.68E-02
+organonitrogen compound metabolic process (GO:1901564)	4787	40	23.48	+	1.70	3.31E-04	2.55E-02
+metabolic process (GO:0008152)	7882	65	38.65	+	1.68	1.57E-07	3.69E-05
+organic substance metabolic process (GO:0071704)	7404	58	36.31	+	1.60	1.52E-05	2.04E-03
+response to stimulus (GO:0050896)	8039	62	39.42	+	1.57	7.97E-06	1.18E-03
+cellular process (GO:0009987)	15074	95	73.92	+	1.29	1.12E-07	2.71E-05
+biological_process (GO:0008150)	17698	99	86.79	+	1.14	6.95E-05	7.69E-03
+Unclassified (UNCLASSIFIED)	2897	2	14.21	-	.14	6.95E-05	7.64E-03
